@@ -1,0 +1,8 @@
+datasets>=2.6.1
+transformers==4.30
+accelerate>=0.20.1
+librosa
+evaluate
+wandb
+jiwer
+pydantic
